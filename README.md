@@ -11,7 +11,9 @@ Desarrolla el turorial Hello world
 https://guides.github.com/activities/hello-world/
 
 # Paso 3
-Instala git en tu desktop 
+Instala git en tu desktop
+
+[Download git](https://docs.github.com/es/desktop/installing-and-configuring-github-desktop/installing-github-desktop)
 
 # Configurar tu cuenta de Git en tu desktop 
 
