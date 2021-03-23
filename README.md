@@ -15,19 +15,20 @@ Instala git en tu desktop
 
 [Download git](https://docs.github.com/es/desktop/installing-and-configuring-github-desktop/installing-github-desktop)
 
-## Configurar tu cuenta de Git en tu desktop 
+## Configurar tu cuenta de Git (nombre de usuario y mail) en tu desktop
 
-**Configurar en un repositorio individual*
+Esto es importante porque cualquier cambio que hagas a un repositorio requiere que los "commits" de Git tengan esta información.
 
-git config user.name "Your Name Here"
-git config user.email your@email.com
+**Configurar globalmente para todos los repositorios actuales y futuros*
 
-**Configurar globalmente*
-
-Para todos los repositorios y en la terminal ejecuta los siguientes comandos (~/.gitconfig):
+En la terminal ejecuta los siguientes comandos para modificar el siguiente archivo (~/.gitconfig):
 
 git config --global user.name "Your Name Here"
 git config --global user.email your@email.com
+
+Comprueba tu configuración con 
+
+git config --list
 
 # Paso 4.
 Si deseas integrar Rstudio con Git sigue este tutorial.
