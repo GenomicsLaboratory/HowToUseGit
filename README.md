@@ -1,4 +1,4 @@
-# How To Use Git en español
+# How To Use Git
 
 En este tutorial aprenderas como iniciarte en el uso Git de forma simple.
 
