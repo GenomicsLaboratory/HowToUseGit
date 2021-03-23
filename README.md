@@ -15,7 +15,7 @@ Instala git en tu desktop
 
 [Download git](https://docs.github.com/es/desktop/installing-and-configuring-github-desktop/installing-github-desktop)
 
-# Configurar tu cuenta de Git en tu desktop 
+## Configurar tu cuenta de Git en tu desktop 
 
 **Configurar en un repositorio individual*
 
