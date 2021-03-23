@@ -23,7 +23,7 @@ Esto es importante porque cualquier cambio que hagas a un repositorio requiere q
 
 En la terminal ejecuta los siguientes comandos para modificar el siguiente archivo (~/.gitconfig):
 
-git config --global user.name "Your Name Here"
+git config --global user.name "Your Name Here"  
 git config --global user.email your@email.com
 
 Comprueba tu configuración con 
