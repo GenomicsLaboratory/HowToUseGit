@@ -31,5 +31,5 @@ Comprueba tu configuración con
 git config --list
 
 # Paso 4.
-Si deseas integrar Rstudio con Git sigue este tutorial.
+Si deseas integrar Rstudio con Git sigue este tutorial
 https://youtu.be/JN6rzv4zSJ4
