@@ -36,9 +36,11 @@ Desde el 13 de agosto de 2021 será necesario crear un token para usar github de
 
 Para crear un token sigue estas [instrucciones](https://docs.github.com/es/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token). Guarda tu token en un lugar seguro, pues lo necesitarás cada vez que desees **clonar** un repositorio o cuando hagas un **push**.
 
-Ejemplo uso de token desde la terminal cuando hagas un push:
+Por ejemplo para realizar un push a un repositorio debes ejecutar este comando en la terminal:
 
     git push https://<TU_TOKEN_AQUI>@github.com/<NOMBRE_REPOSITORY_AQUI>.git
+    
+Ejemplo uso de token en el repositorio Protocolos de nuestro laboratorio:    
     
    ![image](https://user-images.githubusercontent.com/70146916/129455914-93994ff7-78f2-4961-8a3b-ed00840a889a.png)
 
