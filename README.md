@@ -31,5 +31,15 @@ Comprueba tu configuración con
 git config --list
 
 # Paso 4.
+Crear y usar token
+Desde el 13 de agosto de 2021 es necesario crear un token. Este token no reemplaza, cambia, ni elimina tu password para acceder a github, pero es necesario para poder realizar cambios (commit and push) en un repositorio. 
+
+Para crear un token sigue estas [instrucciones](https://docs.github.com/es/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token). Guarda tu token en un lugar seguro, pues lo necesitarás cada vez que desees **clonar** un proyecto o cuando hagas un **push**.
+
+Ejemplo uso de token cuando hagas un push:
+
+    git push https://<TU_TOKEN_AQUI>@github.com/<NOMBRE_REPOSITORY_AQUI>.git
+
+# Paso 5
 Si deseas integrar Rstudio con Git sigue este tutorial
 https://youtu.be/JN6rzv4zSJ4
