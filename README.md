@@ -38,13 +38,13 @@ Para crear un token sigue estas [instrucciones](https://docs.github.com/es/githu
 
 Ejemplo clonar un repositorio de tu perfil. Ejecuta este comando este comando en la terminal.
 
-        git clone https://github.com/YourUserNameHere/RepoNameHere.git
-        Username: your_username
-        Password: your_token
+   git clone https://github.com/YourUserNameHere/RepoNameHere.git
+   Username: your_username
+   Password: your_token
 
 Ejemplo realizar un push a un repositorio. Ejecuta este comando este comando en la terminal:
 
-    git push https://<TU_TOKEN_AQUI>@github.com/<NOMBRE_REPOSITORY_AQUI>.git
+   git push https://<TU_TOKEN_AQUI>@github.com/<NOMBRE_REPOSITORY_AQUI>.git
     
 Ejemplo uso de token en el repositorio Protocolos de nuestro laboratorio:    
     
