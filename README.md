@@ -3,7 +3,7 @@
 En este tutorial aprenderas como iniciarte en el uso Git de forma simple.
 
 # Paso 1.
-Crea una cuenta en https://github.com/
+Crea una cuenta en https://github.com/signup?source=login
 
 # Paso 2.
 Desarrolla el turorial Hello world
