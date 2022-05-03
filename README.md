@@ -54,6 +54,6 @@ Ejemplo uso de token en el repositorio **Protocolos** de nuestro laboratorio:
    ![image](https://user-images.githubusercontent.com/70146916/129455914-93994ff7-78f2-4961-8a3b-ed00840a889a.png)
 
 
-# Paso 6
-Si deseas integrar Rstudio con Git sigue este tutorial
+# Paso 6 (Opcional)
+Si deseas integrar Rstudio Desktop con Github puedes siguir este tutorial
 https://youtu.be/JN6rzv4zSJ4
