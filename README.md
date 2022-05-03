@@ -49,7 +49,7 @@ Para realizar un pull/push a un repositorio. Ejecuta los siguientes comandos en 
       git pull https://<TU_TOKEN_AQUI>@github.com/<NOMBRE_REPOSITORY_AQUI>.git
       git push https://<TU_TOKEN_AQUI>@github.com/<NOMBRE_REPOSITORY_AQUI>.git
     
-Ejemplo uso de token en el repositorio Protocolos de nuestro laboratorio:    
+Ejemplo uso de token en el repositorio **Protocolos** de nuestro laboratorio:    
     
    ![image](https://user-images.githubusercontent.com/70146916/129455914-93994ff7-78f2-4961-8a3b-ed00840a889a.png)
 
