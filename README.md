@@ -44,6 +44,8 @@ Para clonar un repositorio de tu perfil de hithub a tu computadora. Ejecuta este
       Username: Tu_nombre_de_usuario_aqui
       Password: Tu_token_aquí
 
+# Paso 6
+
 Para realizar un pull/push a un repositorio. Ejecuta los siguientes comandos en la terminal (recuerda reemplazar tu token y tu repositorio):
 
       git pull https://<TU_TOKEN_AQUI>@github.com/<NOMBRE_REPOSITORY_AQUI>.git
@@ -54,6 +56,6 @@ Ejemplo uso de token en el repositorio **Protocolos** de nuestro laboratorio:
    ![image](https://user-images.githubusercontent.com/70146916/129455914-93994ff7-78f2-4961-8a3b-ed00840a889a.png)
 
 
-# Paso 6 (Opcional)
+# Paso 7 (Opcional)
 Si deseas integrar Rstudio Desktop con Github puedes siguir este tutorial
 https://youtu.be/JN6rzv4zSJ4
