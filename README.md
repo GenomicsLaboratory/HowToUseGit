@@ -31,12 +31,21 @@ Comprueba tu configuración con
       git config --list
 
 # Paso 4.
-**Crear token** 
+**Crear Personal access tokens (classic)** 
 Desde el 13 de agosto de 2021 será necesario crear un token para usar github desde tu PC. Este token no reemplaza, cambia, ni elimina tu password para acceder a github, pero es necesario para poder realizar cambios (push) o clonar (clone) un repositorio. 
 
 Para crear un token sigue estas [instrucciones](https://docs.github.com/es/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token). Guarda tu token en un lugar seguro, pues lo necesitarás cada vez que desees **clonar** un repositorio o cuando hagas un **push**.
 
-# Paso 5
+# Paso 5 
+**Control de versiones de proyectos y tesis**
+Te recomendamos instalar y usar Github desktop para mantener el control de versiones de tu tesis y de los proyectos del lab.  
+https://desktop.github.com/ 
+
+# Paso 6 (Opcional)
+Si deseas integrar Rstudio Desktop con Github puedes siguir este tutorial
+https://youtu.be/JN6rzv4zSJ4
+
+# Paso 7 (Opcional)
 
 Para clonar un repositorio de tu perfil de hithub a tu computadora. Ejecuta este comando este comando en la terminal (cambia tu nombre de usuario y nombre de repositorio antes de clonar).
 
@@ -44,7 +53,7 @@ Para clonar un repositorio de tu perfil de hithub a tu computadora. Ejecuta este
       Username: Tu_nombre_de_usuario_aqui
       Password: Tu_token_aquí
 
-# Paso 6
+# Paso 8 (Opcional)
 
 Para realizar un pull/push a un repositorio. Ejecuta los siguientes comandos en la terminal (recuerda reemplazar tu token y tu repositorio):
 
@@ -54,8 +63,3 @@ Para realizar un pull/push a un repositorio. Ejecuta los siguientes comandos en 
 Ejemplo uso de token en el repositorio **Protocolos** de nuestro laboratorio:    
     
    ![image](https://user-images.githubusercontent.com/70146916/129455914-93994ff7-78f2-4961-8a3b-ed00840a889a.png)
-
-
-# Paso 7 (Opcional)
-Si deseas integrar Rstudio Desktop con Github puedes siguir este tutorial
-https://youtu.be/JN6rzv4zSJ4
