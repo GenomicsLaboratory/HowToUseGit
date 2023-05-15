@@ -7,13 +7,14 @@ Crea una cuenta en https://github.com/signup?source=login
 
 # Paso 2.
 Desarrolla el turorial Hello world
-
 https://guides.github.com/activities/hello-world/
 
 # Paso 3
-Instala Github desktop
+**Control de versiones de proyectos y tesis**
+Te recomendamos instalar y usar Github desktop para mantener el control de versiones de tu tesis y de los proyectos del lab.  
+[Desktop Github Download](https://desktop.github.com/) 
 
-[Download git](https://docs.github.com/es/desktop/installing-and-configuring-github-desktop/installing-github-desktop)
+[Información instalación Github desktop avanzado](https://docs.github.com/es/desktop/installing-and-configuring-github-desktop/installing-github-desktop)
 
 ## Configurar tu cuenta de Git (nombre de usuario y mail) en tu desktop
 
@@ -36,16 +37,11 @@ Desde el 13 de agosto de 2021 será necesario crear un token para usar github de
 
 Para crear un token sigue estas [instrucciones](https://docs.github.com/es/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token). Guarda tu token en un lugar seguro, pues lo necesitarás cada vez que desees **clonar** un repositorio o cuando hagas un **push**.
 
-# Paso 5 
-**Control de versiones de proyectos y tesis**
-Te recomendamos instalar y usar Github desktop para mantener el control de versiones de tu tesis y de los proyectos del lab.  
-https://desktop.github.com/ 
-
-# Paso 6 (Opcional)
+# Paso 5 (Opcional)
 Si deseas integrar Rstudio Desktop con Github puedes siguir este tutorial
 https://youtu.be/JN6rzv4zSJ4
 
-# Paso 7 (Opcional)
+# Paso 6 (Opcional)
 
 Para clonar un repositorio de tu perfil de hithub a tu computadora. Ejecuta este comando este comando en la terminal (cambia tu nombre de usuario y nombre de repositorio antes de clonar).
 
@@ -53,7 +49,7 @@ Para clonar un repositorio de tu perfil de hithub a tu computadora. Ejecuta este
       Username: Tu_nombre_de_usuario_aqui
       Password: Tu_token_aquí
 
-# Paso 8 (Opcional)
+# Paso 7 (Opcional)
 
 Para realizar un pull/push a un repositorio. Ejecuta los siguientes comandos en la terminal (recuerda reemplazar tu token y tu repositorio):
 
