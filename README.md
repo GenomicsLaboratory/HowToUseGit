@@ -11,7 +11,8 @@ https://guides.github.com/activities/hello-world/
 
 # Paso 3
 **Control de versiones de proyectos y tesis**
-Te recomendamos instalar y usar Github desktop para mantener el control de versiones de tu tesis y de los proyectos del lab.  
+
+Instala Github desktop para mantener el control de versiones de tu tesis y de los proyectos del lab.  
 [Desktop Github Download](https://desktop.github.com/) 
 
 [Información instalación Github desktop avanzado](https://docs.github.com/es/desktop/installing-and-configuring-github-desktop/installing-github-desktop)
